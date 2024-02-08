@@ -9,9 +9,30 @@ h1 {
 img {
     max-width: 500px;
     border-radius: 10%;
+    margin-bottom: 20px;
 }
 .pagelinks {
     margin-top: 20px;
     
 }
 
+.recipe {
+    font-size: 25px;
+   color: blueviolet;
+}
+
+.recipe a {
+     text-decoration: none;
+}
+button {
+    border-radius: 40px;
+    padding: 10px ;
+    text-decoration: none;
+    box-shadow:grey 3px 3px 1px;
+}
+button:hover {
+    color: white;
+    background-color: purple;
+    box-shadow: 10px;
+    text-decoration: none;
+}
