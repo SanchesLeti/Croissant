@@ -15,6 +15,13 @@ img {
     margin-top: 20px;
     
 }
+.pagelinks a {
+    color: white;
+    margin: 0 10px;
+    font-size: 18px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
 
 .recipe {
     font-size: 25px;
@@ -23,6 +30,9 @@ img {
 
 .recipe a {
      text-decoration: none;
+}
+.main-text {
+    padding: 59px 222px;
 }
 button {
     border-radius: 40px;
